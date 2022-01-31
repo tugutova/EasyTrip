@@ -6,33 +6,33 @@ EasyTrip - "Путешествуйте с нами легко!"
 
 1. Для оформления покупки билета необходимо авторизоваться.
 
-![](https://github.com/tugutova/EasyTrip/blob/master/readme-assets/auth.gif)
+![](https://github.com/tugutova/EasyTrip/blob/main/readme-assets/auth.gif)
 
 2. Поиск билетов можно осуществлять без выбранной даты, в одну сторону. Вся информация по перелету содержится в билете.
 Время прилета местное, разница в часовых поясах учтена.
 
-![](https://github.com/tugutova/EasyTrip/blob/master/readme-assets/main.gif)
+![](https://github.com/tugutova/EasyTrip/blob/main/readme-assets/main.gif)
 
 3. Если вы не выбрали куда полететь, то слайдер с популярными направлениями поможет в этом.
 Просто нажмите на картинку и получите билет на следующий день из вашего города вылета.
 
-![](https://github.com/tugutova/EasyTrip/blob/master/readme-assets/slider.gif)
+![](https://github.com/tugutova/EasyTrip/blob/main/readme-assets/slider.gif)
 
 4. В приложении предусмотрен поиск низких цен по карте. Город вылета отображается красным флагом. Изначально подгружаются билеты из вышего города. Так же можно выбрать любой город вылета. Приобрести билет можно, нажав кнопку подробнее.
 
-![](https://github.com/tugutova/EasyTrip/blob/master/readme-assets/map.gif)
+![](https://github.com/tugutova/EasyTrip/blob/main/readme-assets/map.gif)
 
 5. Чтобы не скучно провести время, можно забронировать экскурсию из любого города.
 
-![](https://github.com/tugutova/EasyTrip/blob/master/readme-assets/excursions.gif)
+![](https://github.com/tugutova/EasyTrip/blob/main/readme-assets/excursions.gif)
 
 6. Все купленные и забронированные билеты отображаются в личном кабинете. При необходимости, их можно удалить.
 
-![](https://github.com/tugutova/EasyTrip/blob/master/readme-assets/profile.gif)
+![](https://github.com/tugutova/EasyTrip/blob/main/readme-assets/profile.gif)
 
 7. Так же можно сменить пароль на новый.
 
-![](https://github.com/tugutova/EasyTrip/blob/master/readme-assets/profile2.gif)
+![](https://github.com/tugutova/EasyTrip/blob/main/readme-assets/profile2.gif)
 
 Все купленные билеты приходят на почту с подробной информацией и так же есть телеграм бот, в котором можно получить ваши билеты.
 
